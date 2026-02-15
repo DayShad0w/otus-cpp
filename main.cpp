@@ -42,7 +42,7 @@ void print_ip(const std::vector<int> &ip) {
     std::cout << std::endl;
 }
 
-int main(int argc, [[maybe_unused]] char const *argv[])
+int main()
 {
     try
     {
